@@ -1,19 +1,7 @@
-### Hi there 👋
+### Hey 👋, I'm v1xingyue
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=v1xingyue&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
 
-### Some Content 
-
-* Keep calm and coding.
-
-* 🇨🇳 China Beijing
-
-*  hs1qes74jmfcmrfcgcly8563c3s404y5s45kyudzhx 
-
-
-
-
-### Hey 👋, I'm v1xingyue
 
 >> Currently focusing on ML #Cuda #FPGA #HPC
 
