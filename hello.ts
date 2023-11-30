@@ -1,5 +1,3 @@
 export {
-
-  msg: "hello github.com “
-  
+  value: 123
 }
